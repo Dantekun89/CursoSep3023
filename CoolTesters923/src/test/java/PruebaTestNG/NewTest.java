@@ -12,6 +12,4 @@ public class NewTest {
 		driver.get("https://www.google.com/");
 		
   }
-
-
 }
